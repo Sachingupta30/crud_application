@@ -11,7 +11,7 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 
 # Installation
 Step 1 : Python requirement package
-pip install -r requirements.txt
+$ echo pip install -r requirements.txt
 
 Step 2 : Migrate Database CRUD project
 python manage.py migrate
